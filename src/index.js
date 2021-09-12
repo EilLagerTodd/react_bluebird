@@ -1,8 +1,17 @@
+<<<<<<< Updated upstream
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+=======
+import React from "react";
+import ReactDOM from "react-dom";
+import firebase from "./firebase";
+import App from "./components/App";
+
+console.log(firebase);
+>>>>>>> Stashed changes
 
 ReactDOM.render(
   <React.StrictMode>
