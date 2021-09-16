@@ -26,9 +26,11 @@ function App() {
       ) : (
         "intializing..."
       )}
-      <footer>&copy; {new Date().getFullYear()} Nwitter</footer>
     </>
   );
 }
 
 export default App;
+
+//<footer>&copy; {new Date().getFullYear()} Nwitter</footer>
+//아래에 나오는거
