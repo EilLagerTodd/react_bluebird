@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/bluebird/static/js/main.21623552.chunk.js",
-    "main.js.map": "/bluebird/static/js/main.21623552.chunk.js.map",
+    "main.js": "/bluebird/static/js/main.29cac467.chunk.js",
+    "main.js.map": "/bluebird/static/js/main.29cac467.chunk.js.map",
     "runtime-main.js": "/bluebird/static/js/runtime-main.43bda8d1.js",
     "runtime-main.js.map": "/bluebird/static/js/runtime-main.43bda8d1.js.map",
     "static/js/2.5ce11808.chunk.js": "/bluebird/static/js/2.5ce11808.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.43bda8d1.js",
     "static/js/2.5ce11808.chunk.js",
-    "static/js/main.21623552.chunk.js"
+    "static/js/main.29cac467.chunk.js"
   ]
 }
