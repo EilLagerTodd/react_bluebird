@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/bluebird/static/js/main.02dc42d8.chunk.js",
-    "main.js.map": "/bluebird/static/js/main.02dc42d8.chunk.js.map",
-    "runtime-main.js": "/bluebird/static/js/runtime-main.812c5dff.js",
-    "runtime-main.js.map": "/bluebird/static/js/runtime-main.812c5dff.js.map",
-    "static/js/2.3f1000bf.chunk.js": "/bluebird/static/js/2.3f1000bf.chunk.js",
-    "static/js/2.3f1000bf.chunk.js.map": "/bluebird/static/js/2.3f1000bf.chunk.js.map",
-    "index.html": "/bluebird/index.html",
-    "static/js/2.3f1000bf.chunk.js.LICENSE.txt": "/bluebird/static/js/2.3f1000bf.chunk.js.LICENSE.txt"
+    "main.js": "/twitter_colne/static/js/main.02dc42d8.chunk.js",
+    "main.js.map": "/twitter_colne/static/js/main.02dc42d8.chunk.js.map",
+    "runtime-main.js": "/twitter_colne/static/js/runtime-main.b088c31d.js",
+    "runtime-main.js.map": "/twitter_colne/static/js/runtime-main.b088c31d.js.map",
+    "static/js/2.225ff576.chunk.js": "/twitter_colne/static/js/2.225ff576.chunk.js",
+    "static/js/2.225ff576.chunk.js.map": "/twitter_colne/static/js/2.225ff576.chunk.js.map",
+    "index.html": "/twitter_colne/index.html",
+    "static/js/2.225ff576.chunk.js.LICENSE.txt": "/twitter_colne/static/js/2.225ff576.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.812c5dff.js",
-    "static/js/2.3f1000bf.chunk.js",
+    "static/js/runtime-main.b088c31d.js",
+    "static/js/2.225ff576.chunk.js",
     "static/js/main.02dc42d8.chunk.js"
   ]
 }
