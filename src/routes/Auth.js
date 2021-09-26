@@ -26,6 +26,7 @@ const Auth = () => {
         <button onClick={onSocialClick} name="github">
           Continue with Github
         </button>
+        <button>수정이되었다는 증거</button>
       </div>
     </div>
   );
