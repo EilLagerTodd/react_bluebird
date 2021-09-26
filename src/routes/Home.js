@@ -1,6 +1,5 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { dbService } from "fbase";
-import { useEffect } from "react/cjs/react.development";
 import Nweet from "components/Nweet";
 import NweetFactory from "components/NweetFactory";
 
