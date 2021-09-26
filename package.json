@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hariose.github.io/bluebird",
-  "name": "twitter_colne",
+  "homepage": "https://hariose.github.io/bluebird/",
+  "name": "bluebird",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +19,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
